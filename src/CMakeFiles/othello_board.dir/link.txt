@@ -1,2 +1,0 @@
-/usr/bin/ar qc ../build/lib/libothello_board.a  CMakeFiles/othello_board.dir/OthelloBoard.cpp.o
-/usr/bin/ranlib ../build/lib/libothello_board.a
