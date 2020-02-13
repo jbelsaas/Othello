@@ -1,0 +1,8 @@
+/home/jorgen/cpp/othello/src/CMakeFiles/install/strip.dir
+/home/jorgen/cpp/othello/src/CMakeFiles/install/local.dir
+/home/jorgen/cpp/othello/src/CMakeFiles/othello.dir
+/home/jorgen/cpp/othello/src/CMakeFiles/edit_cache.dir
+/home/jorgen/cpp/othello/src/CMakeFiles/othello_board.dir
+/home/jorgen/cpp/othello/src/CMakeFiles/rebuild_cache.dir
+/home/jorgen/cpp/othello/src/CMakeFiles/list_install_components.dir
+/home/jorgen/cpp/othello/src/CMakeFiles/install.dir

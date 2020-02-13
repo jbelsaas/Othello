@@ -1,0 +1,26 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/jorgen/cpp/othello/include/IOthelloBoard.hpp
+../include/OthelloUtils.hpp
+/home/jorgen/cpp/othello/include/OthelloUtils.hpp
+
+/home/jorgen/cpp/othello/include/OthelloBoard.hpp
+array
+-
+../include/IOthelloBoard.hpp
+/home/jorgen/cpp/othello/include/IOthelloBoard.hpp
+
+/home/jorgen/cpp/othello/include/OthelloUtils.hpp
+
+/home/jorgen/cpp/othello/src/OthelloBoard.cpp
+algorithm
+-
+../include/OthelloBoard.hpp
+/home/jorgen/cpp/othello/include/OthelloBoard.hpp
+

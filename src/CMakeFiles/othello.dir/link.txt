@@ -1,0 +1,1 @@
+/usr/bin/c++     CMakeFiles/othello.dir/OthelloBoard.cpp.o CMakeFiles/othello.dir/main.cpp.o  -o ../build/bin/othello 
