@@ -12,3 +12,5 @@ _deps
 a.out
 build/bin/*
 build/lib/*
+!build/bin/README.md
+!build/bin/README.md
