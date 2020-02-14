@@ -9,11 +9,14 @@ namespace OthelloEngine {
     public:
       OthelloBoard();
       void init();
+      void init(std::array<DiskMarker, 64> initBoard);
       DiskMarker getPosition(int x, int y);
-      bool canMove();
-      bool isValidMove(int x, int y);
+      bool canMove(DiskMarker marker);
+      bool isValidMove(int x, int y, DiskMarker marker);
+      void placeDisk(int x, int y, DiskMarker marker);
+      void clear();
     private:
-     std::array<DiskMarker, 64> board;
+      std::array<DiskMarker, 64> board;
   };
 }
 
